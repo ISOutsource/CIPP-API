@@ -1,6 +1,6 @@
  ## ⚠️ ISOutsource fork — do not modify directly
 
- This is the ISOutsource operational fork of [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP-API).
+ This is the ISOutsource operational fork of [KelvinTegelaar/CIPP-API](https://github.com/KelvinTegelaar/CIPP-API).
  It powers the **ISO Client Tenant Manager** platform deployed in our Azure tenant.
 
  **Updates flow from upstream via the Pull GitHub App.** Do not commit, push, or
